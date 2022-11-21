@@ -5,7 +5,7 @@
 ###  很高兴认识你 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
 
 - 🌱 萌新前端攻城狮
-- 🎞️ 道阻且长，行则将至
+- 🎞️ 道阻且长，行则将至，行而不辍，未来可期
 - ⚡ 相信自己是潜力股！
   
 </div>
