@@ -1,6 +1,6 @@
 <div style="display:'flex',justifyContent: 'space-between',alignItems='center'">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hqchqc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
+<img align="right" src="https://github-readme-stats-sandy-tau.vercel.app/api?username=hqchqc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide=contribs" />
 
 ###  很高兴认识你 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px">
 
